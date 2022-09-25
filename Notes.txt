@@ -1,0 +1,5 @@
+This week, I learned about Javascript:
+-Programming basics,
+-Arrays, logic and loops,
+-Functions.
+The focus was mainly on the arrays and the ways to declare them, deleting elements on it, re-arrange them, change the order of the elements, remove the first and last element, append an element on different positions using different methods; create subarrays, remove an element of it, leave or not leave undefined values of it, reverse the order of it, create multidimensional arrays and sort the order or countthe elements on it.
