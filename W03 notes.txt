@@ -14,3 +14,4 @@ Events are another part of the DOM and they are what provides the link between t
 Every time a user interacts with a web page, such as clicking on a link, pressing a key, or moving a mouse, 
 an event occurs that our program can detect and then respond to. We use Event listeners to call functions that do something when these events happens.
 One example could be a Click function, that is programmed to do some action when a click is registered, and is called by an event listener.
+//
