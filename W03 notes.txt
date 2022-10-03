@@ -1,0 +1,16 @@
+//
+This week lesson that I learned about was about Objects, the Document Object Model (DOM) and Events.
+
+I learned to create objects literals wich are an object in JavaScript is a self-contained set of related values and functions and accesing to their properties
+by using the dot notation. An example of this is create any object by wrapping all its properties and methods in curly braces.
+
+The DOM is an interface that allows us to use JavaScript to interact with a web page. This is incredible useful because we can use any JS script or funtion that we want
+to interact with the website and the user. The limit is the imagination.
+
+DOM is a poweful tool in webdesign to manipulate HTML tags and all the subelements in it. we can adding and removing elements, changing the order,
+content and attributes of elements, and even altering how they are styled (CSS).
+
+Events are another part of the DOM and they are what provides the link between the web page and user interactions. 
+Every time a user interacts with a web page, such as clicking on a link, pressing a key, or moving a mouse, 
+an event occurs that our program can detect and then respond to. We use Event listeners to call functions that do something when these events happens.
+One example could be a Click function, that is programmed to do some action when a click is registered, and is called by an event listener.
