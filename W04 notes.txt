@@ -1,0 +1,27 @@
+The Lesson from this week was about HTML forms. Form is the most common way to interact with
+
+A web page.  The HTML form element ( <form>)on a web page allows a user to enter data, most of
+
+the time personal data like, name, password, contact,etc. This data is sent to a server for processing.
+
+Forms most times can resemble paper or database forms because the user fills the form using text fields, radio buttons or check boxes.
+
+The HTML form element can contain any of the the following form elements: input, label, select,
+
+textarea, button, fieldset, legend, datalist, output, etc.
+
+Form data can be retrieved later from the server to any use.
+
+I laso learned about Object-oriented programming. OOP is a style of programming that involves
+
+separating the code into objects that have properties and methods. This approach has the benefit
+
+of keeping related pieces of code encapsulated in objects that maintain state throughout the life
+
+of the program, so code can be reused.  I also learned about Encapsultaion, polymorphism, inheritance, classes. 
+
+Then we use the object properties to create method that can be used in any “parent “ property as classes are, 
+
+and then by using constructor functions instances of the objects
+
+Can be created. Class keyword is used in JS, also in other lenguages.
