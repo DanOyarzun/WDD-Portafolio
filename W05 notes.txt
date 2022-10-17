@@ -1,0 +1,20 @@
+This week I learned testing and debugging in JS. Javascript has penty of methods to fond bugs and to prevent adn avoid the crush of the webpage and
+
+the correct load of all their elements. The main errors are typically a system error, a programming error or a user error.
+
+Also learned taht is highly recommended to use the strict mode in all JS files to force the browser to display more exceptions
+
+and warnings that can be caused by not declaring variables. This is acomplished by sing the string "use strict".This can be used in a whole file or just a single function.
+
+Exceptions can be thrown using the throw statement. Also there are plenty of debbuging tools for browsers and to interactively find and fix bugs in code.
+
+Also, I learned that when an expection ocurrs, an error is created in the form in an object.
+
+Any code placed inside a try block will pass any error objects to a catch block when an exception occurs. 
+
+Any code inside a finally block will run if an exception does or does not occur.
+
+All of these is very interesting and useful to debuggin, because there will be always errors on code. But there is also pently of ways to catch them, to fix them, 
+
+to force the generation of one and or exceptions to apply a test-driven development and coding.
+
